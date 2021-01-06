@@ -25,5 +25,7 @@ All parts have a LCSC reference number and are at the time of writting this read
 The compatible SW can be found in the following OpenSprinkler Firmware branch:
 https://github.com/arijav/AriloSprinkler-Firmware
 
+Note: This is a home made prototype. No guarantee of any kind is given. If you want a commercial product please order the regular OpenSprinkler official parts.
+
 For questions send a message to:
 gmail email: arijav2020
