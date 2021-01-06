@@ -26,5 +26,15 @@ https://github.com/arijav/AriloSprinkler-Firmware
 
 Note: This is a home made prototype. No guarantee of any kind is given. If you want a commercial product please order the regular OpenSprinkler official parts.
 
+Final design (not yet produced, use at your own risk):
+
+![Final design front](https://github.com/arijav/AriloSprinkler-Hardware/blob/master/AriloSprinkler/Pictures/AriloSprinklerAC_front.jpg)
+![Final design back](https://github.com/arijav/AriloSprinkler-Hardware/blob/master/AriloSprinkler/Pictures/AriloSprinklerAC_back.jpg)
+
+Prototype:
+
+![Prototype front](https://github.com/arijav/AriloSprinkler-Hardware/blob/master/AriloSprinkler/Pictures/AriloSprinklerAC_prototype_front.jpg)
+![Prototype back](https://github.com/arijav/AriloSprinkler-Hardware/blob/master/AriloSprinkler/Pictures/AriloSprinklerAC_prototype_back.jpg)
+
 For questions send a message to:
 gmail email: arijav2020
