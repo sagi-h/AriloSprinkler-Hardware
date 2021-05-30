@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name ACM2012-121-2P-T002)(type Legacy)(uri ${KIPRJMOD}/Libraries/ACM2012-121-2P-T002.lib)(options "")(descr ""))
-  (lib (name E22-900M30S-SX1262)(type Legacy)(uri ${KIPRJMOD}/Libraries/E22-900M30S-SX1262.lib)(options "")(descr ""))
-)

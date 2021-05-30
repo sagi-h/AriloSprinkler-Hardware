@@ -5747,7 +5747,7 @@
     )
   )
 
-  (module arilo_sprinkler:PCB-SGAP (layer Top) (tedit 5F249311) (tstamp 5F569A9A)
+  (module aqua_ticker:PCB-SGAP (layer Top) (tedit 5F249311) (tstamp 5F569A9A)
     (at 114.4143 114.8461 180)
     (path /930CE8D2)
     (attr smd)
@@ -5782,7 +5782,7 @@
       (net 1 GND) (solder_mask_margin 0.0508) (solder_paste_margin -0.0508) (zone_connect 2))
   )
 
-  (module arilo_sprinkler:PCB-SGAP (layer Top) (tedit 5F249311) (tstamp 5F25D449)
+  (module aqua_ticker:PCB-SGAP (layer Top) (tedit 5F249311) (tstamp 5F25D449)
     (at 145.3891 115.2496 90)
     (path /1B7F6A37)
     (attr smd)
@@ -5817,7 +5817,7 @@
       (net 67 "Net-(J7-Pad1)") (solder_mask_margin 0.0508) (solder_paste_margin -0.0508) (zone_connect 2))
   )
 
-  (module arilo_sprinkler:PCB-SGAP (layer Top) (tedit 5F249311) (tstamp 5F225315)
+  (module aqua_ticker:PCB-SGAP (layer Top) (tedit 5F249311) (tstamp 5F225315)
     (at 151.1554 115.2652 90)
     (path /4ED31560)
     (attr smd)
@@ -5852,7 +5852,7 @@
       (net 66 "Net-(J7-Pad2)") (solder_mask_margin 0.0508) (solder_paste_margin -0.0508) (zone_connect 2))
   )
 
-  (module arilo_sprinkler:PCB-SGAP (layer Top) (tedit 5F249311) (tstamp 5F225328)
+  (module aqua_ticker:PCB-SGAP (layer Top) (tedit 5F249311) (tstamp 5F225328)
     (at 157.5481 115.2496 90)
     (path /D08593D8)
     (attr smd)
@@ -5887,7 +5887,7 @@
       (net 65 "Net-(J7-Pad3)") (solder_mask_margin 0.0508) (solder_paste_margin -0.0508) (zone_connect 2))
   )
 
-  (module arilo_sprinkler:PCB-SGAP (layer Top) (tedit 5F249311) (tstamp 5F22533B)
+  (module aqua_ticker:PCB-SGAP (layer Top) (tedit 5F249311) (tstamp 5F22533B)
     (at 164.719 115.2652 90)
     (path /443BF2F8)
     (attr smd)
@@ -5922,7 +5922,7 @@
       (net 64 "Net-(J7-Pad4)") (solder_mask_margin 0.0508) (solder_paste_margin -0.0508) (zone_connect 2))
   )
 
-  (module arilo_sprinkler:PCB-SGAP (layer Top) (tedit 5F249311) (tstamp 5F22534E)
+  (module aqua_ticker:PCB-SGAP (layer Top) (tedit 5F249311) (tstamp 5F22534E)
     (at 172.085 115.2554 90)
     (path /C25DEDE9)
     (attr smd)
@@ -5957,7 +5957,7 @@
       (net 63 "Net-(J7-Pad5)") (solder_mask_margin 0.0508) (solder_paste_margin -0.0508) (zone_connect 2))
   )
 
-  (module arilo_sprinkler:PCB-SGAP (layer Top) (tedit 5F249311) (tstamp 5F225374)
+  (module aqua_ticker:PCB-SGAP (layer Top) (tedit 5F249311) (tstamp 5F225374)
     (at 186.309 115.2398 90)
     (path /91440CCA)
     (attr smd)
@@ -5992,7 +5992,7 @@
       (net 61 "Net-(J7-Pad7)") (solder_mask_margin 0.0508) (solder_paste_margin -0.0508) (zone_connect 2))
   )
 
-  (module arilo_sprinkler:PCB-SGAP (layer Top) (tedit 5F249311) (tstamp 5F225387)
+  (module aqua_ticker:PCB-SGAP (layer Top) (tedit 5F249311) (tstamp 5F225387)
     (at 192.4541 115.3766 90)
     (path /D9545336)
     (attr smd)
@@ -6027,7 +6027,7 @@
       (net 60 "Net-(J7-Pad8)") (solder_mask_margin 0.0508) (solder_paste_margin -0.0508) (zone_connect 2))
   )
 
-  (module arilo_sprinkler:PCB-SGAP (layer Top) (tedit 5F249311) (tstamp 5F230FAF)
+  (module aqua_ticker:PCB-SGAP (layer Top) (tedit 5F249311) (tstamp 5F230FAF)
     (at 179.2986 115.23 90)
     (path /D83106C3)
     (attr smd)
@@ -6080,7 +6080,7 @@
   (gr_text "GND  VCC  SCL  SDA" (at 136.83996 54.89956) (layer F.SilkS) (tstamp 5F423632)
     (effects (font (size 0.6 0.6) (thickness 0.115)) (justify left bottom))
   )
-  (gr_text "AriloSprinkler 8-Zone 24VAC\n@Javier Arigita\nOpenSprinkler based" (at 172.4533 105.1306) (layer B.SilkS) (tstamp 5F40BA72)
+  (gr_text "AquaTicker\n\nBased on OpenSprinkler" (at 172.4533 105.1306) (layer B.SilkS) (tstamp 5F40BA72)
     (effects (font (size 1.5 1.5) (thickness 0.15)) (justify mirror))
   )
   (gr_line (start 136.0805 54.01) (end 195.866 54.01) (layer Edge.Cuts) (width 0.05) (tstamp 5F374077))
@@ -6096,7 +6096,7 @@
   (gr_text "GND +5V\nSCL SDA\nACG ACG\n—   —\n—   —" (at 116.84 96.5835) (layer F.SilkS) (tstamp 5F467F03)
     (effects (font (size 0.77216 0.77216) (thickness 0.115824)) (justify bottom))
   )
-  (gr_text "AriloSprinkler 8-Zone 24VAC\n@Javier Arigita (OS based)" (at 101.0412 93.2688 90) (layer F.SilkS) (tstamp 5F40FF11)
+  (gr_text "AquaTicker\n\nBased on OpenSprinkler" (at 101.0412 93.2688 90) (layer F.SilkS) (tstamp 5F40FF11)
     (effects (font (size 1 1) (thickness 0.15)))
   )
 

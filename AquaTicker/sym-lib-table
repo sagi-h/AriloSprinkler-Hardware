@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name ACM2012-121-2P-T002)(type Legacy)(uri ${KIPRJMOD}/Libraries/ACM2012-121-2P-T002.lib)(options "")(descr ""))
+  (lib (name E22-900M30S-SX1262)(type Legacy)(uri ${KIPRJMOD}/Libraries/E22-900M30S-SX1262.lib)(options "")(descr ""))
+  (lib (name XL-1509)(type Legacy)(uri ${KIPRJMOD}/Libraries/XL-1509.lib)(options "")(descr ""))
+  (lib (name CP2102-GMR)(type Legacy)(uri ${KIPRJMOD}/Libraries/CP2102-GMR.lib)(options "")(descr ""))
+  (lib (name ESP32-WROOM-32-DEVKIT)(type Legacy)(uri ${KIPRJMOD}/Libraries/ESP32-WROOM-32-DEVKIT.lib)(options "")(descr ""))
+  (lib (name PTS526_SMG15_SMTR2_LFS)(type Legacy)(uri ${KIPRJMOD}/Libraries/PTS526_SMG15_SMTR2_LFS.lib)(options "")(descr ""))
+)
